@@ -39,7 +39,7 @@ acs_state = function(state_code){
                                    women_15_50_birth = "B13016_002", # women 15-20years who gave birth in past 12 months
                                    disability = "B18101_001", #total population with a disability status
                                    fertility = "B99132_001"), # total WOMEN 15 TO 50 YEARS with fertility
-                     year = 2019,
+                     year = 2022,
                      survey = "acs5",
                      geometry = TRUE)
   print("acs_data_downloaded")
